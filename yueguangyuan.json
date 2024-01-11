@@ -1533,7 +1533,7 @@
   "name" : "📞人人影视",
   "type" : 3,
   "api" : "./js/drpy2.min.js",
-  "ext" : "http://52bsj.vip:81/api/v3/file/get/155433/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.js?sign=taamroaWkefLuU96niZUnEAk2ZU7O4H7sVkQTy6Fn5w%3D%3A0"
+  "ext" : "./json/人人影视.json"
 },
 {
   "key":"csp_XBPQ吼吼影视",
