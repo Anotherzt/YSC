@@ -51,19 +51,19 @@
 {
   "key": "奇虎",
   "name": "🍎奇虎影视",
-  "type": 0,
+  "type": 1,
   "api": "https://caiji.qhzyapi.com/api.php/provide/vod",
 },
 {
   "key": "金鹰",
   "name": "🐅金鹰影视",
-  "type": 0,
+  "type": 1,
   "api": "https://jyzyapi.com/provide/vod/from/jinyingyun",
 },
 {
   "key": "红牛",
   "name": "🐅红牛影视",
-  "type": 0,
+  "type": 1,
   "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
 },
 {
