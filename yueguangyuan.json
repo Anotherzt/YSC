@@ -543,7 +543,7 @@
   "key": "索尼",
   "name": "🍚索尼影视",
   "type": 1,
-  "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
+  "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
   "playUrl": "",
   "searchable": 1,
   "quickSearch": 1,
