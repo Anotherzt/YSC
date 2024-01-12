@@ -405,6 +405,12 @@
   "jar":"./jar/xBPQ_1106.jar"
 },
 {
+  "key": "6U",
+  "name": "🌸6U资源",
+  "type": 1,
+  "api": "http://zy.ataoju.com/inc/apijson_vod.php"
+},
+{
   "key":"达达龟",
   "name":"🐢哒哒龟",
   "type":3,
