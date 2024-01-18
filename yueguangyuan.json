@@ -426,16 +426,6 @@
   "ext":"./json/sc1080.json"
 },
 {
-  "key":"348影视",
-  "name":"🌸348影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./json/348影视.json"
-},
-{
   "key":"suying影视",
   "name":"🍓速映影视",
   "type":3,
