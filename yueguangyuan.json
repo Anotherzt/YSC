@@ -416,6 +416,15 @@
   "ext":"./json/dadagui.json"
 },
 {
+  "key":"csp_xBPQ_奇优",
+  "name":"🅱️奇优影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/奇优影视.json"},
+{
   "key":"sc影视",
   "name":"🌸盛城影视",
   "type":3,
