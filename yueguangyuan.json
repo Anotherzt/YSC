@@ -559,26 +559,12 @@
   "ext": "https://www.ttmja.com/api.php/app/"
 },
 {
-  "key" : "drpy_js_007",
-  "name" : "🎫007电影",
-  "type" : 3,
-  "api" : "./js/drpy2.min.js",
-  "ext" : "./js/007ys.js"
-},
-{
   "key" : "drpy_js_NIKE影视",
   "name" : "📞NIKE影视",
   "type" : 3,
   "api" : "./js/drpy2.min.js",
   "ext" : "./js/Nike影视.js"
 },
-{
-  "key" : "drpy_js_139",
-  "name" : "🎞139电影",
-  "type" : 3,
-  "api" : "./js/drpy2.min.js",
-  "ext" : "./js/139ys.js"
-},	
 {
   "key": "csp_黄黄",
   "name": "😎黄黄影视",
