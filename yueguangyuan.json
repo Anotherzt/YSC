@@ -472,6 +472,16 @@
   "ext":"./json/好戏影视.json"
 },
 {
+  "key":"csp_热播",
+  "name":"🅱️热播之家",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/热播之家.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
