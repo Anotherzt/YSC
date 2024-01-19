@@ -512,6 +512,16 @@
   "ext":"./json/光棍影视.json"
 },
 {
+  "key":"csp_土豪",
+  "name":"🅱️土豪影视|T追剧",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/土豪影视.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
