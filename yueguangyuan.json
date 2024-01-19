@@ -603,7 +603,7 @@
 {
   "key": "八戒",
   "name": "🍎八戒影视",
-  "type": 0,
+  "type": 1,
   "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
 },
 {
