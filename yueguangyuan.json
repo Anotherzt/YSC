@@ -551,6 +551,16 @@
   "ext":"./json/真不卡影视.json"
 },
 {
+  "key":"csp_xBPQ_66",
+  "name":"🅱️66影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/66影视.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
