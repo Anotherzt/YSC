@@ -395,7 +395,7 @@
 },
 {
   "key":"csp_XBPQTVB影视",
-  "name":"☁️极速云播",
+  "name":"🌙极速云播",
   "type":3,
   "api":"csp_xBPQ",
   "searchable":1,
@@ -406,7 +406,7 @@
 },
 {
   "key":"达达龟",
-  "name":"🐢哒哒龟",
+  "name":"🌙哒哒龟",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -417,7 +417,7 @@
 },
 {
   "key":"csp_xBPQ_奇优",
-  "name":"🅱️奇优影视",
+  "name":"🌙奇优影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -426,7 +426,7 @@
   "ext":"./json/奇优影视.json"},
 {
   "key":"sc影视",
-  "name":"🌸盛城影视",
+  "name":"🍓盛城影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -446,14 +446,14 @@
 },
 {
   "key":"畅梦",
-  "name":"🍋畅梦秒播",
+  "name":"🍓畅梦秒播",
   "type":3,
   "api":"./lib/drpy2.min.js",
   "ext":"./js/changmeng.js"
 },
 {
   "key":"csp_Ddys",
-  "name":"⛳低端影视",
+  "name":"🍓低端影视",
   "type":3,
   "api":"csp_Ddys",
   "searchable":1,
@@ -463,7 +463,7 @@
 },
 {
   "key":"csp_好戏",
-  "name":"🅱️好戏影视",
+  "name":"☁️好戏影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -473,7 +473,7 @@
 },
 {
   "key":"csp_热播",
-  "name":"🅱️热播之家",
+  "name":"☁️热播之家",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -483,7 +483,7 @@
 },
 {
   "key":"csp_日后",
-  "name":"🅱️348影视",
+  "name":"☁️348影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -493,7 +493,7 @@
 },
 {
   "key":"csp_熊猫",
-  "name":"🅱️熊猫影视",
+  "name":"☁️熊猫影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -503,7 +503,7 @@
 },
 {
   "key":"csp_光棍",
-  "name":"🅱️光棍影视",
+  "name":"🐢光棍影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -513,7 +513,7 @@
 },
 {
   "key":"csp_土豪",
-  "name":"🅱️土豪影视",
+  "name":"🐢土豪影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -523,7 +523,7 @@
 },
 {
   "key":"csp_兔年",
-  "name":"🅱️YYDS影视",
+  "name":"🐢YYDS影视",
   "type":3,"api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
@@ -532,7 +532,7 @@
 },
 {
   "key":"csp_酷茶",
-  "name":"🅱️酷茶影视",
+  "name":"🐢酷茶影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -542,7 +542,7 @@
 },
 {
   "key":"csp_真不卡",
-  "name":"🅱️不卡云播",
+  "name":"🍋不卡云播",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -552,7 +552,7 @@
 },
 {
   "key":"csp_xBPQ_66",
-  "name":"🅱️66影视",
+  "name":"🍋66影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -562,7 +562,7 @@
 },
 {
   "key": "csp_蛋蛋",
-  "name": "🅱️蛋蛋影视",
+  "name": "🍋蛋蛋影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable":1,
@@ -572,7 +572,7 @@
 },
 {
   "key": "csp_黑狐",
-  "name": "🅱️黑狐影视",
+  "name": "🍋黑狐影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable":1,
@@ -582,7 +582,7 @@
 },
 {
   "key":"csp_臭蛋",
-  "name":"🅱️臭蛋影视【线路②失效】",
+  "name":"⛳臭蛋影视【线路②失效】",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -592,7 +592,7 @@
 },
 {
   "key":"csp_米爱",
-  "name":"🅱️米爱影视",
+  "name":"⛳米爱影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -602,7 +602,7 @@
 },
 {
   "key": "八戒",
-  "name": "🍎八戒影视",
+  "name": "⛳八戒影视",
   "type": 1,
   "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
 },
@@ -626,7 +626,7 @@
 },
 {
   "key": "csp_KubaCL",
-  "name": "💄酷吧电影",
+  "name": "🍭酷吧电影",
   "type": 3,
   "api": "csp_KubaCL",
   "playerType": 1,
@@ -637,7 +637,7 @@
 },
 {
   "key": "csp_Xunlei8",
-  "name": "💄迅雷吧",
+  "name": "🍭迅雷吧",
   "type": 3,
   "api": "csp_Xunlei8",
   "playerType": 1,
@@ -648,7 +648,7 @@
 },
 {
   "key": "csp_XYQHiker_哔嘀影视",
-  "name": "💄哔嘀影视",
+  "name": "🍭哔嘀影视",
   "type": 3,
   "api": "csp_XYQHiker",
   "searchable": 1,
@@ -670,21 +670,21 @@
 },  
 {
   "key": "HOHO（APP）",
-  "name": "🌙HOHO（APP）",
+  "name": "💄HOHO（APP）",
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://hoho.tv/api.php/app/"
 },
 {
   "key": "速看100（APP）",
-  "name": "🌙速看100（APP）",
+  "name": "💄速看100（APP）",
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://sk100.tv/api.php/app/"
 },
 {
   "key": "少泽影客（APP）",
-  "name": "🌙少泽影客（APP）",
+  "name": "💄少泽影客（APP）",
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://yk.shaozeyy.com/api.php/app/"
@@ -698,21 +698,21 @@
 },
 {
   "key": "天天美剧网（APP）",
-  "name": "🌙天天美剧网（APP）",
+  "name": "🍧天天美剧网（APP）",
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://www.ttmja.com/api.php/app/"
 },
 {
   "key" : "drpy_js_NIKE影视",
-  "name" : "📞NIKE影视",
+  "name" : "🍧NIKE影视",
   "type" : 3,
   "api" : "./js/drpy2.min.js",
   "ext" : "./js/Nike影视.js"
 },
 {
   "key": "csp_黄黄",
-  "name": "😎黄黄影视",
+  "name": "🍧黄黄影视",
   "api": "csp_AppYsV2",
   "type": 3,
   "filterable": 1,
