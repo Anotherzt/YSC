@@ -522,6 +522,15 @@
   "ext":"./json/土豪影视.json"
 },
 {
+  "key":"csp_兔年",
+  "name":"🅱️YYDS影视",
+  "type":3,"api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/YYDS影视.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
