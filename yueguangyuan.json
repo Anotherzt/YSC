@@ -482,6 +482,16 @@
   "ext":"./json/热播之家.json"
 },
 {
+  "key":"csp_日后",
+  "name":"🅱️348影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/348影视.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
