@@ -531,6 +531,16 @@
   "ext":"./json/YYDS影视.json"
 },
 {
+  "key":"csp_酷茶",
+  "name":"🅱️酷茶影视|T追剧",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/酷茶影视.json"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
