@@ -601,6 +601,12 @@
   "ext":"./json/米爱影视.json"
 },
 {
+  "key": "八戒",
+  "name": "🍎八戒影视",
+  "type": 0,
+  "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+},
+{
   "key":"csp_YQKAPP",
   "name":"👩‍👦一起看电视",
   "type":3,
