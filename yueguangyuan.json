@@ -775,18 +775,6 @@
   "jar":"./jar/xBPQ_1106.jar"
 },
 {
-  "key": "易看",
-  "name": "🎗易看资源",
-  "type": 0,
-  "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml/"
-},
-{
-  "key": "魔都",
-  "name": "🎗魔都动漫",
-  "type": 0,
-  "api": "https://www.moduzy.com/api.php/provide/vod/at/xml/"
-},
-{
   "key": "演唱会",
   "name": "🅱️歌曲MV",
   "type": 3,
