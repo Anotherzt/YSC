@@ -524,7 +524,8 @@
 {
   "key":"csp_兔年",
   "name":"🐢YYDS影视",
-  "type":3,"api":"csp_XBPQ",
+  "type":3,
+  "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -582,7 +583,7 @@
 },
 {
   "key":"csp_臭蛋",
-  "name":"⛳臭蛋影视【线路②失效】",
+  "name":"⛳臭蛋影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -719,6 +720,16 @@
   "quickSearch": 1,
   "searchable": 1,
   "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+},
+{
+  "key":"csp_大米",
+  "name":"⛳大米星球",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/大米星球.json"
 },
 { 
   "key": "狐狸", 
