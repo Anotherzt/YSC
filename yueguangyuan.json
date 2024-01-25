@@ -786,6 +786,48 @@
   "jar":"./jar/xBPQ_1106.jar"
 },
 {
+  "key": "快车",
+  "name": "🐅快车资源",
+  "type": 0,
+  "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml"
+},
+{
+  "key": "映迷",
+  "name": "🐅影迷影院",
+  "type": 0,
+  "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
+},
+{
+  "key": "资源库",
+  "name": "🐅1080资源库",
+  "type": 1,
+  "api": "https://api.1080zyku.com/inc/api_mac10_all.php"
+},
+{
+  "key": "淘片",
+  "name": "🐅淘片采集",
+  "type": 1,
+  "api": "https://taopianapi.com/cjapi/mc/vod/json.html"
+},
+{
+  "key": "享看",
+  "name": "🐅享看资源",
+  "type": 0,
+  "api": "https://xkanzy10.com/api.php/provide/vod/at/xml"
+},
+{
+  "key": "虎牙",
+  "name": "🐅虎牙资源",
+  "type": 0,
+  "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml"
+},
+{
+  "key": "阿里",
+  "name": "🐅阿里影视",
+  "type": 0,
+  "api": "http://aliys.cn:90/api.php/provide/vod/at/xml"
+},
+{
   "key": "演唱会",
   "name": "🅱️歌曲MV",
   "type": 3,
@@ -898,60 +940,6 @@
   "quickSearch": 1,      
   "filterable": 1    
 }, 
-{
-  "key": "快车",
-  "name": "🐅快车资源（测试）",
-  "type": 0,
-  "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml"
-},
-{
-  "key": "映迷",
-  "name": "🐅影迷影院（测试）",
-  "type": 0,
-  "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
-},
-{
-  "key": "6U",
-  "name": "🐅6U影院（测试）",
-  "type": 1,
-  "api": "http://www.6uzy.cc/inc/apijson_vod.php"
-},
-{
-  "key": "步步高",
-  "name": "🐅步步高资源（测试）",
-  "type": 1,
-  "api": "https://api.yparse.com/api/json"
-},
-{
-  "key": "资源库",
-  "name": "🐅1080资源库（测试）",
-  "type": 1,
-  "api": "https://api.1080zyku.com/inc/api_mac10_all.php"
-},
-{
-  "key": "淘片",
-  "name": "🐅淘片采集（测试）",
-  "type": 1,
-  "api": "https://taopianapi.com/cjapi/mc/vod/json.html"
-},
-{
-  "key": "享看",
-  "name": "🐅享看资源（测试）",
-  "type": 0,
-  "api": "https://xkanzy10.com/api.php/provide/vod/at/xml"
-},
-{
-  "key": "虎牙",
-  "name": "🐅虎牙资源（测试）",
-  "type": 0,
-  "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml"
-},
-{
-  "key": "阿里",
-  "name": "🐅阿里影视（测试）",
-  "type": 0,
-  "api": "http://aliys.cn:90/api.php/provide/vod/at/xml"
-},
 {
   "key":"22",
   "name":"鄒先生警示！",
