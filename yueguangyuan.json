@@ -609,7 +609,7 @@
 },
 {
   "key":"csp_YQKAPP",
-  "name":"👩‍👦一起看电视",
+  "name":"⛳一起看电视",
   "type":3,
   "api":"csp_YQKAPP",
   "playerType":2,
@@ -723,7 +723,7 @@
 },
 {
   "key":"csp_大米",
-  "name":"⛳大米星球",
+  "name":"😎大米星球",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -743,7 +743,7 @@
 }, 
 {
   "key":"csp_MeiJu69",
-  "name":"🗽69美剧",
+  "name":"😎69美剧",
   "api":"csp_AppYsV2",
   "type":3,
   "filterable":1,
@@ -753,7 +753,7 @@
 },
 {
   "key" : "drpy_js_多米",
-  "name" : "☁️多米影视",
+  "name" : "😎多米影视",
   "type" : 3,
   "api" : "./js/drpy2.min.js",
   "ext" : "./js/多米.js"
@@ -769,7 +769,7 @@
 },
 {
   "key" : "drpy_js_人人影视",
-  "name" : "📞人人影视",
+  "name" : "✌人人影视",
   "type" : 3,
   "api" : "./lib/drpy2.min.js",
   "ext" : "./json/人人影视.json"
@@ -787,43 +787,43 @@
 },
 {
   "key": "快车",
-  "name": "🐅快车资源",
+  "name": "🎞️快车资源",
   "type": 0,
   "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml"
 },
 {
   "key": "映迷",
-  "name": "🐅影迷影院",
+  "name": "👩‍👦影迷影院",
   "type": 0,
   "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
 },
 {
   "key": "资源库",
-  "name": "🐅1080资源库",
+  "name": "👩‍👦1080资源库",
   "type": 1,
   "api": "https://api.1080zyku.com/inc/api_mac10_all.php"
 },
 {
   "key": "淘片",
-  "name": "🐅淘片采集",
+  "name": "📞淘片采集",
   "type": 1,
   "api": "https://taopianapi.com/cjapi/mc/vod/json.html"
 },
 {
   "key": "享看",
-  "name": "🐅享看资源",
+  "name": "📞享看资源",
   "type": 0,
   "api": "https://xkanzy10.com/api.php/provide/vod/at/xml"
 },
 {
   "key": "虎牙",
-  "name": "🐅虎牙资源",
+  "name": "🗽虎牙资源",
   "type": 0,
   "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml"
 },
 {
   "key": "阿里",
-  "name": "🐅阿里影视",
+  "name": "🗽阿里影视",
   "type": 0,
   "api": "http://aliys.cn:90/api.php/provide/vod/at/xml"
 },
