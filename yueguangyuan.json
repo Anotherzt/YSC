@@ -899,12 +899,6 @@
   "filterable": 1    
 }, 
 {
-  "key": "人人VIP",
-  "name": "🐅人人VIP（测试）",
-  "type": 0,
-  "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml"
-},
-{
   "key": "快车",
   "name": "🐅快车资源（测试）",
   "type": 0,
@@ -913,7 +907,7 @@
 {
   "key": "樱花",
   "name": "🐅樱花资源（测试）",
-  "type": 0,
+  "type": 1,
   "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
 },
 {
