@@ -1,12 +1,12 @@
 {
-  "spider":"clan://localhost/tvbox/YSC/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+  "spider":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
   "sites":[
 {
   "key": "js豆瓣1",
   "name": "🌸鄒先生影视🌸",
   "type": 3,
-  "api": "clan://localhost/tvbox/YSC/lib/drpy2.min.js",
-  "ext": "clan://localhost/tvbox/YSC/lib/douban.js",
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/douban.js",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0
@@ -15,8 +15,8 @@
   "key":"drpy_js_荐片",
   "name":"🍎荐片",
   "type":3,
-  "api":"clan://localhost/tvbox/YSC/lib/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/jp.js",
+  "api":"./lib/drpy2.min.js",
+  "ext":"./js/jp.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -24,23 +24,23 @@
   "key":"csp_日后",
   "name":"🍎日后影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/HeChengChaXiu.jar",
+  "jar": "./jar/HeChengChaXiu.jar",
   "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/日后影视.json"
+  "ext":"./json/日后影视.json"
 },
 {
   "key":"csp_淘剧",
   "name":"🍎淘剧影院",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/HeChengChaXiu.jar",
+  "jar": "./jar/HeChengChaXiu.jar",
   "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/淘剧影院.json"},
+  "ext":"./json/淘剧影院.json"},
 {
   "key": "金鹰",
   "name": "🐅金鹰影视",
@@ -61,9 +61,9 @@
   "key":"drpy_js_量子影视",
   "name":"🐅量子影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/量子影视.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/量子影视.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -79,12 +79,12 @@
   "key": "csp_XYQHiker_子子影视",
   "name": "🍡子子影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/子子影视.json"
+  "ext": "./json/子子影视.json"
 },
 {
   "key": "极速",
@@ -106,7 +106,7 @@
   "key": "厂长影院",
   "name": "🍡厂长影院",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XBPQ.jar",
+  "jar": "./jar/XBPQ.jar",
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
@@ -197,7 +197,7 @@
   "key":"农民影视",
   "name":"🍉农民影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_WexNmys",
   "searchable":1,
   "quickSearch": 1,
@@ -207,23 +207,23 @@
   "key": "csp_XYQHiker_电影港",
   "name": "🍉电影港磁力",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"clan://localhost/tvbox/YSC/json/电影港磁力.json"
+  "ext":"./json/电影港磁力.json"
 },
 {
   "key": "csp_XYQHiker_55影视",
   "name": "🍉55看影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/55影视.json"
+  "ext": "./json/55影视.json"
 },
 {
   "key": "火狐",
@@ -238,11 +238,11 @@
   "name": "🍚南瓜影视",
   "type": 3,
   "playerType": 2,
-  "api": "clan://localhost/tvbox/YSC/js/drpy2.min.js",
+  "api": "./js/drpy2.min.js",
   "changeable": 0,
   "searchable": 1,
   "quickSearch": 1,
-  "ext": "clan://localhost/tvbox/YSC/js/南瓜.js"
+  "ext": "./js/南瓜.js"
 },
 {
   "key": "索尼",
@@ -256,7 +256,7 @@
   "key":"愉悦影视",
   "name":"🍚愉悦影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexyuyueys",
   "searchable":1,
   "quickSearch": 1,
@@ -266,7 +266,7 @@
   "key":"在线之家",
   "name":"⚽在线之家",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexzxzj",
   "searchable":1,
   "quickSearch": 1,
@@ -276,7 +276,7 @@
   "key":"快看影视",
   "name":"⚽快看影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Kuaikan",
   "searchable":1,
   "quickSearch":1,
@@ -294,7 +294,7 @@
   "key":"兄弟影视",
   "name":"⚽兄弟影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexxiongdiys",
   "searchable":1,
   "quickSearch":1,
@@ -320,7 +320,7 @@
   "key":"明日影视",
   "name":"🌍明日影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_WexMingriys",
   "searchable":1,
   "quickSearch":1,
@@ -394,7 +394,7 @@
   "key":"啾啾影视",
   "name":"🎗啾啾影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexjiohub",
   "searchable":1,
   "quickSearch":1,
@@ -404,12 +404,12 @@
   "key": "csp_XYQHiker_奇趣影视",
   "name": "🍹奇趣影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/奇趣影视.json"
+  "ext": "./json/奇趣影视.json"
 },
 {
   "key":"csp_XBPQ_六度",
@@ -433,7 +433,7 @@
   "key":"笙歌┃影视",
   "name":"🍹笙歌影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_AppYY",
   "searchable":1,
   "quickSearch":1,
@@ -443,7 +443,7 @@
   "key":"最新┃影视",
   "name":"🍹最新影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Zx1080",
   "searchable":1,
   "quickSearch":1,
@@ -473,7 +473,7 @@
   "key":"FreeOK",
   "name":"💰️富瑞影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_FreeOK",
   "searchable":1,
   "quickSearch":1,
@@ -483,7 +483,7 @@
   "key": "csp_Mp4Mov",
   "name": "💰️Mp4电影",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ1.jar",
+  "jar": "./jar/XYQ1.jar",
   "api": "csp_Mp4Mov",
   "searchable": 1,
   "quickSearch": 1,
@@ -493,7 +493,7 @@
   "key": "csp_New6v",
   "name": "💰️新6V",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ1.jar",
+  "jar": "./jar/XYQ1.jar",
   "api": "csp_New6v",
   "searchable": 1,
   "quickSearch": 1,
@@ -508,24 +508,24 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"clan://localhost/tvbox/YSC/json/6v.json"
+  "ext":"./json/6v.json"
 },
 {
   "key":"csp_XBPQTVB影视",
   "name":"🌙极速云播",
   "type":3,
-  "jar":"clan://localhost/tvbox/YSC/jar/xBPQ_1106.jar",
+  "jar":"./jar/xBPQ_1106.jar",
   "api":"csp_xBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/tvbyun.json"
+  "ext":"./json/tvbyun.json"
 },
 {
   "key":"天天影视",
   "name":"🌙天天影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_AppTT",
   "searchable":1,
   "quickSearch":1,
@@ -539,7 +539,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/奇优影视.json"},
+  "ext":"./json/奇优影视.json"},
 {
   "key":"sc影视",
   "name":"🍓盛城影视",
@@ -548,13 +548,13 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/sc1080.json"
+  "ext":"./json/sc1080.json"
 },
 {
   "key":"毛驴影视",
   "name":"🍓毛驴影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_MaoLv",
   "searchable":1,
   "quickSearch":1,
@@ -564,8 +564,8 @@
   "key":"畅梦",
   "name":"🍓畅梦秒播",
   "type":3,
-  "api":"clan://localhost/tvbox/YSC/lib/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/changmeng.js",
+  "api":"./lib/drpy2.min.js",
+  "ext":"./js/changmeng.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -573,7 +573,7 @@
   "key":"csp_Ddys",
   "name":"🍓低端影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/83.jar",
+  "jar": "./jar/83.jar",
   "api":"csp_Ddys",
   "searchable":1,
   "quickSearch":1,
@@ -583,7 +583,7 @@
   "key":"可可影视",
   "name":"☁️可可影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Keke",
   "searchable":1,
   "quickSearch":1,
@@ -597,13 +597,13 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/热播之家.json"
+  "ext":"./json/热播之家.json"
 },
 {
   "key":"机器人",
   "name":"☁️机器影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Ikanbot",
   "searchable":1,
   "quickSearch":1,
@@ -614,12 +614,12 @@
   "key": "csp_XYQHiker_348电影网",
   "name": "☁️348电影网",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/348电影网.json"
+  "ext": "./json/348电影网.json"
 },
 {
   "key":"csp_光棍",
@@ -629,18 +629,18 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/光棍影视.json"
+  "ext":"./json/光棍影视.json"
 },
 {
   "key": "csp_XYQHiker_看一看影视",
   "name": "🐢看一看影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/看一看影视.json"
+  "ext": "./json/看一看影视.json"
 },
 {
   "key":"csp_兔年",
@@ -650,18 +650,18 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/YYDS影视.json"
+  "ext":"./json/YYDS影视.json"
 },
 {
   "key": "csp_XYQHiker_奈飞中文",
   "name": "🐢奈飞中文",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/奈飞中文.json"
+  "ext": "./json/奈飞中文.json"
 },
 {
   "key":"csp_真不卡",
@@ -671,40 +671,40 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/真不卡影视.json"
+  "ext":"./json/真不卡影视.json"
 },
 {
   "key": "csp_XYQHiker_影渣渣影视",
   "name": "🍋影渣渣影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/影渣渣影视.json"
+  "ext": "./json/影渣渣影视.json"
 },
 {
   "key": "csp_XYQHiker_鸭奈飞影视",
   "name": "🍋鸭奈飞影视",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/鸭奈飞影视.json"
+  "ext": "./json/鸭奈飞影视.json"
 },
 {
   "key": "csp_XYQHiker_歪片星球",
   "name": "🍋歪片星球",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/歪片星球.json"
+  "ext": "./json/歪片星球.json"
 },
 {
   "key":"csp_臭蛋",
@@ -714,7 +714,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/臭蛋影视.json"
+  "ext":"./json/臭蛋影视.json"
 },
 {
   "key":"csp_米爱",
@@ -724,7 +724,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"clan://localhost/tvbox/YSC/json/米爱影视.json"
+  "ext":"./json/米爱影视.json"
 },
 {
   "key": "八戒",
@@ -738,18 +738,18 @@
   "key": "csp_XYQHiker_影视工场",
   "name": "⛳影视工场",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/影视工场.json"
+  "ext": "./json/影视工场.json"
 },
 {
   "key": "csp_KubaCL",
   "name": "🍭酷吧电影",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ1.jar",
+  "jar": "./jar/XYQ1.jar",
   "api": "csp_KubaCL",
   "playerType": 1,
   "searchable": 1,
@@ -760,7 +760,7 @@
   "key": "csp_Xunlei8",
   "name": "🍭迅雷吧",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ1.jar",
+  "jar": "./jar/XYQ1.jar",
   "api": "csp_Xunlei8",
   "playerType": 1,
   "searchable": 1,
@@ -771,19 +771,19 @@
   "key": "csp_XYQHiker_电影牛影院",
   "name": "🍭电影牛影院",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_custom_spider.jar",
+  "jar": "./jar/xyq_custom_spider.jar",
   "api": "csp_XYQHiker",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/电影牛影院.json"
+  "ext": "./json/电影牛影院.json"
 },
 {
   "key":"yqk",
   "name":"🍭一起看电视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/一起看电视.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/一起看电视.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -791,9 +791,9 @@
   "key":"drpy_js_兰花影院",
   "name":"💄兰花影院",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/兰花影院.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/兰花影院.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -801,9 +801,9 @@
   "key":"drpy_js_看看屋",
   "name":"💄看看屋",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/看看屋.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/看看屋.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -838,9 +838,9 @@
   "key":"drpy_js_美视网",
   "name":"🍧美视网",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/美视网.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/美视网.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -848,9 +848,9 @@
   "key":"drpy_js_纽约影院",
   "name":"🍧纽约影院",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/纽约影院.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/纽约影院.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -858,7 +858,7 @@
   "key":"大米星球",
   "name":"🍧大米影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_AppDaMi",
   "searchable":1,
   "quickSearch":1,
@@ -878,9 +878,9 @@
   "key":"drpy_js_555电影",
   "name":"😎电影猎手",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/555电影.js", 
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/555电影.js", 
   "searchable": 1, 
   "quickSearch": 1
 },
@@ -888,9 +888,9 @@
   "key":"drpy_js_多瑙影视",
   "name":"😎多瑙影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/多瑙影视.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/多瑙影视.js",
   "searchable": 1, 
   "quickSearch": 1, 
   "playerType":"2"
@@ -899,7 +899,7 @@
   "key":"两个磁力",
   "name":"😎2BT(SP)",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexbttwo",
   "searchable":1,
   "changeable":1
@@ -908,8 +908,8 @@
   "key" : "drpy_js_人人影视",
   "name" : "✌人人影视",
   "type" : 3,
-  "api" : "clan://localhost/tvbox/YSC/lib/drpy2.min.js",
-  "ext" : "clan://localhost/tvbox/YSC/json/人人影视.json",
+  "api" : "./lib/drpy2.min.js",
+  "ext" : "./json/人人影视.json",
   "searchable":1,
   "quickSearch":1
 },
@@ -925,7 +925,7 @@
   "key":"骚火影视",
   "name":"✌骚火影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_Wexsaohuo",
   "searchable":1,
   "quickSearch":1,
@@ -935,9 +935,9 @@
   "key":"drpy_js_碟调影视",
   "name":"✌碟调影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/碟调影视.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/碟调影视.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -953,9 +953,9 @@
   "key":"drpy_js_看了么",
   "name":"🎞️看了么影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/看了么.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/看了么.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -963,9 +963,9 @@
   "key":"drpy_js_四个圈儿",
   "name":"🎞️四个圈影视",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/四个圈影视.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/四个圈影视.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -997,9 +997,9 @@
   "key":"drpy_js_免费看",
   "name":"📞免费看",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/免费看.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/免费看.js",
   "searchable":1,
   "quickSearch":1
 },
@@ -1023,23 +1023,23 @@
   "key": "演唱会",
   "name": "🅱️歌曲MV",
   "type": 3,
-  "jar":"clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar":"./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext":"clan://localhost/tvbox/YSC/json/YCH.json"
+  "ext":"./json/YCH.json"
 },
 {
   "key": "少儿",
   "name": "🅱️教育",
   "type": 3,
-  "jar":"clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar":"./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0,
-  "ext":"clan://localhost/tvbox/YSC/json/儿童教育.json"
+  "ext":"./json/儿童教育.json"
 },
 {
   "key": "csp_xpath_A33",
@@ -1049,13 +1049,13 @@
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/MTV.json"
+  "ext": "./json/MTV.json"
 },
 {
   "key":"星芽短剧",
   "name":"📱上头短剧",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/o.jar",
+  "jar": "./jar/o.jar",
   "api":"csp_AppXY",
   "searchable":1,
   "quickSearch":1,
@@ -1065,45 +1065,45 @@
   "key": "少儿教育",
   "name": "📚少儿教育",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar": "./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/少儿教育.json"
+  "ext": "./json/少儿教育.json"
 },
 {
   "key": "小学课堂",
   "name": "📚小学课堂",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar": "./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/小学课堂.json"
+  "ext": "./json/小学课堂.json"
 },
 {
   "key": "初中课堂",
   "name": "📚初中课堂",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar": "./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/初中课堂.json"
+  "ext": "./json/初中课堂.json"
 },
 {
   "key": "高中教育",
   "name": "📚高中课堂",
   "type": 3,
-  "jar": "clan://localhost/tvbox/YSC/jar/XYQ.jar",
+  "jar": "./jar/XYQ.jar",
   "api": "csp_Bili",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1,
-  "ext": "clan://localhost/tvbox/YSC/json/高中课堂.json"
+  "ext": "./json/高中课堂.json"
 },
 {      
   "key": "csp_Dm84",      
@@ -1118,9 +1118,9 @@
   "key":"drpy_js_NT动漫",
   "name":"🚌NT动漫",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/NT动漫.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/NT动漫.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -1128,9 +1128,9 @@
   "key":"drpy_js_奇米动漫",
   "name":"🚌奇米动漫",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/奇米动漫.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/奇米动漫.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -1138,9 +1138,9 @@
   "key":"drpy_js_58动漫",
   "name":"🎀58动漫",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/58动漫.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/58动漫.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -1148,9 +1148,9 @@
   "key":"drpy_js_爱弹幕",
   "name":"🎀爱弹幕动漫",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/爱弹幕.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/爱弹幕.js",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -1167,9 +1167,9 @@
   "key":"drpy_js_去看吧",
   "name":"🐾去看吧动漫",
   "type":3,
-  "jar": "clan://localhost/tvbox/YSC/jar/xyq_f.jar",
-  "api":"clan://localhost/tvbox/YSC/js/drpy2.min.js",
-  "ext":"clan://localhost/tvbox/YSC/js/去看吧.js",
+  "jar": "./jar/xyq_f.jar",
+  "api":"./js/drpy2.min.js",
+  "ext":"./js/去看吧.js",
   "searchable": 1,
   "quickSearch": 1
 },
