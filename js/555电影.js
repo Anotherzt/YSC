@@ -20,8 +20,8 @@ var rule = {
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,
-	class_name:'连续剧&电影&综艺&动漫', // 分类筛选 /api.php/app/nav
-	class_url:'2&1&3&4',
+	class_name:'连续剧&电影&综艺&动漫&福利', // 分类筛选 /api.php/app/nav
+	class_url:'2&1&3&4&124',
 	play_parse:true,
 	lazy:'js:input=/ddvod/.test(input)?"http://jhsj.manduhu.com/?url="+input:input',
 	limit:6,
